@@ -37,4 +37,3 @@ jobs:
         with:
           name: SK-Traders-APK
           path: SK-Traders.apk
-          
